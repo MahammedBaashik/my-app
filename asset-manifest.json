@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MahammedBaashik/my-app/static/css/main.d3b1ee54.chunk.css",
+    "main.js": "/MahammedBaashik/my-app/static/js/main.20ce14ed.chunk.js",
+    "main.js.map": "/MahammedBaashik/my-app/static/js/main.20ce14ed.chunk.js.map",
+    "runtime-main.js": "/MahammedBaashik/my-app/static/js/runtime-main.54a88a67.js",
+    "runtime-main.js.map": "/MahammedBaashik/my-app/static/js/runtime-main.54a88a67.js.map",
+    "static/js/2.dbdc1f2b.chunk.js": "/MahammedBaashik/my-app/static/js/2.dbdc1f2b.chunk.js",
+    "static/js/2.dbdc1f2b.chunk.js.map": "/MahammedBaashik/my-app/static/js/2.dbdc1f2b.chunk.js.map",
+    "static/js/3.7b4cbfcd.chunk.js": "/MahammedBaashik/my-app/static/js/3.7b4cbfcd.chunk.js",
+    "static/js/3.7b4cbfcd.chunk.js.map": "/MahammedBaashik/my-app/static/js/3.7b4cbfcd.chunk.js.map",
+    "index.html": "/MahammedBaashik/my-app/index.html",
+    "static/css/main.d3b1ee54.chunk.css.map": "/MahammedBaashik/my-app/static/css/main.d3b1ee54.chunk.css.map",
+    "static/js/2.dbdc1f2b.chunk.js.LICENSE.txt": "/MahammedBaashik/my-app/static/js/2.dbdc1f2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54a88a67.js",
+    "static/js/2.dbdc1f2b.chunk.js",
+    "static/css/main.d3b1ee54.chunk.css",
+    "static/js/main.20ce14ed.chunk.js"
+  ]
+}
